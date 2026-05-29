@@ -1,0 +1,14 @@
+#GOAL
+float64 min
+float64 max
+float64 step
+
+---
+
+#RESULT
+bool success
+
+---
+
+#FEEDBACK
+float64 current_position
